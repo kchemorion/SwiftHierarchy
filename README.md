@@ -1,5 +1,3 @@
-Sure, here's the updated README.md file with explanations for each file in the repository:
-
 # SwiftHierarchy
 
 This README provides an overview of a Bash script designed to upload files to an object storage system while mimicking a hierarchical folder structure based on a given prefix.
