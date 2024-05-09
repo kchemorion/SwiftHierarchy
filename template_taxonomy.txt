@@ -1,0 +1,21 @@
+ClassA
+    SubclassA1
+        SubsubclassA1_1
+        SubsubclassA1_2
+    SubclassA2
+        SubsubclassA2_1
+        SubsubclassA2_2
+ClassB
+    SubclassB1
+        SubsubclassB1_1
+        SubsubclassB1_2
+    SubclassB2
+        SubsubclassB2_1
+        SubsubclassB2_2
+ClassC
+    SubclassC1
+        SubsubclassC1_1
+        SubsubclassC1_2
+    SubclassC2
+        SubsubclassC2_1
+        SubsubclassC2_2
